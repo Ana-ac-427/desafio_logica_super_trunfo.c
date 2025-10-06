@@ -38,26 +38,6 @@ O programa compara duas cartas de cidades brasileiras com base em **dois atribut
 5. Densidade populacional
 6. PIB per capita
 
----
-
-## 🧩 Como compilar e executar
-
-### 🔹 Compilar
-
-No terminal, digite:
-
-```bash
-gcc super_trunfo.c -o super_trunfo
-```
-
-### 🔹 Executar
-
-Depois, rode o programa:
-
-```bash
-./super_trunfo
-```
-
 ## 🖥️ Exemplo de uso
 
 ```
@@ -90,8 +70,4 @@ Soma total: Carta 1 venceu a rodada!
 
 ## 👩‍💻 Autoria
 Projeto desenvolvido por Ana Clara do Nascimento de Oliveira.
-Repositório GitHub: [adicione aqui o link do seu repositório público]
-
-Adicionando README com instruções do projeto
-Projeto desenvolvido por **Ana Clara do Nascimento de Oliveira**
 Repositório GitHub: [adicione aqui o link do seu repositório público]
