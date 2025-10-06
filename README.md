@@ -72,4 +72,4 @@ Empate!
 ##👩‍💻 Autoria
 
 Projeto desenvolvido por Ana Clara do Nascimento de Oliveira
-Repositório GitHub: [adicione aqui o link do seu repositório público]
+Repositório GitHub: https://github.com/Ana-ac-427/desafio_logica_super_trunfo.c.git
