@@ -62,7 +62,11 @@ Carta 1 venceu no primeiro atributo!
 Carta 2 venceu no segundo atributo!
 Soma total: Carta 1 venceu a rodada!
 
-´´´
+
+´´
+
+
+´
 
 ##🧾 Observações
 O programa usa switch, operadores ternários e tratamento de empates.
