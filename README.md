@@ -70,6 +70,6 @@ O programa usa switch, operadores ternários e tratamento de empates.
 Em caso de empate na soma total, o programa exibe:  
 Empate!
 
-## ⚠️ Autoria
+## Autoria
 Projeto desenvolvido por Ana Clara do Nascimento de Oliveira  
 Repositório GitHub: https://github.com/Ana-ac-427/desafio_logica_super_trunfo.c.git
