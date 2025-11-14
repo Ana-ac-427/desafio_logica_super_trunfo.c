@@ -1,11 +1,11 @@
-# 🃏 Super Trunfo — Nível Mestre
+# Super Trunfo — Nível Mestre
 
 Projeto desenvolvido em linguagem **C** como parte do **Desafio Final - Super Trunfo**.
 O programa compara duas cartas de cidades brasileiras com base em **dois atributos escolhidos pelo jogador**.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Cadastro de **duas cartas** com os seguintes atributos:
 
@@ -29,7 +29,7 @@ O programa compara duas cartas de cidades brasileiras com base em **dois atribut
 
 ---
 
-## 🧠 Atributos disponíveis para comparação
+## Atributos disponíveis para comparação
 
 1. População
 2. Área
@@ -38,7 +38,7 @@ O programa compara duas cartas de cidades brasileiras com base em **dois atribut
 5. Densidade populacional
 6. PIB per capita
 
-## 🖥️ Exemplo de uso
+## Exemplo de uso
 
 ```
 =====================================
@@ -65,7 +65,7 @@ Soma total: Carta 1 venceu a rodada!
 
 ```
 
-## 🧾 Observações
+## Observações
 O programa usa switch, operadores ternários e tratamento de empates.  
 Em caso de empate na soma total, o programa exibe:  
 Empate!
